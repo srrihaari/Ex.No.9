@@ -1,7 +1,6 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date:
-# Reg. No.:
+# Reg. No.:212223040202
 
 # Aim:
 To demonstrate the ability of text-to-Video generation tools to reproduce an existing Video by crafting precise prompts. The goal is to identify key elements within the Video and use these details to generate an Video as close as possible to the original.
@@ -49,5 +48,63 @@ Tools/LLMs for Video Generation:
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
 
+
+
+# Prompt :
+## 1.Create a Simple Prompt:
+#### A short and direct description to generate a basic scene.
+
+A short video of bored college students sitting in a dull classroom, staring at the clock and daydreaming
+
+## Video :
+
+
+
+
+https://github.com/user-attachments/assets/224dd63f-048f-4e92-befd-a5f6fff5c928
+
+
+
+
+
+This prompt was used  hailuoai.vide and Make-A-Video to observe basic animation, environment understanding, and subject motion.
+# Prompt :
+## 2.Create a Detailed Prompt:
+#### A descriptive prompt with more context, action, and setting.
+
+A high-energy battle scene featuring multiple One Piece characters clashing for fun on a sunny open field near the ocean. Luffy is laughing while stretching his arm for a Gomu Gomu punch, Zoro is swinging his three swords with a confident grin, Sanji is mid-air delivering a fiery kick, Nami is summoning a lightning strike with her Clima-Tact, Usopp is firing a slingshot in the background, Robin is creating giant arms to block attacks, Franky is firing a laser, Brook is playing his sword like a violin while slashing, and Chopper is in his Monster Point form roaring playfully. The sky is bright blue with fluffy clouds, the ocean sparkles in the distance, and there’s a sense of chaotic fun with colorful energy effects, dust clouds, and motion blur to capture their dynamic movements.
+– Style: vibrant anime style, dynamic poses, dramatic action lighting, highly detailed character expressions.
+
+## Video :
+
+
+
+https://github.com/user-attachments/assets/00c5e763-a16a-41ef-b625-8cb85d853591
+
+
+
+
+This prompt was run in Imagen Video and Make-A-Video to assess how well the model handles detailed instructions and renders natural scenery with realistic motion.
+
+
+# Prompt : 
+# Advance Creative Prompt :
+
+Create a 20-second cinematic video of a college campus during a sudden heavy rainstorm, where an announcement declares classes cancelled. Show raindrops splashing on a notice board with the words “Leave Declared Due to Rain,” students lighting up with excitement, texting friends, high-fiving, and rushing outside with colorful umbrellas. Capture puddles reflecting gray skies, wet pathways, and joyful chaos as some students laugh and run into the rain while others take selfies. Use smooth tracking shots, occasional slow motion, a cool blue-gray color palette with pops of vibrant raincoats, and a soundscape of pouring rain, distant thunder, and upbeat background music.
+## Video :
+
+
+
+
+https://github.com/user-attachments/assets/b6d0a4dc-e75f-44a5-bf61-39360475db35
+
+
+
+# Overview Report :
+![Screenshot 2025-05-19 003541](https://github.com/user-attachments/assets/235ceefb-2bb7-4341-b9f3-5a84adfe39ac)
+
+
+
+
 ## Conclusion:
-By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
+By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications
